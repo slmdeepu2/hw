@@ -14,7 +14,7 @@ public class HelloWorld {
     out.println("Hello, World! The current time is " + dtf.format(now));
   }
 
-  public Demo() {
+  public void Dream() {
     throw new UnsupportedOperationException();
   }
 
