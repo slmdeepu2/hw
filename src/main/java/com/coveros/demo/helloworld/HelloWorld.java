@@ -13,7 +13,10 @@ public class HelloWorld {
 
     out.println("Hello, World! The current time is " + dtf.format(now));
   }
-  
-  public void dream() {}
+
+  public void dream() {
+
+    throw new UnsupportedOperationException();
+  }
 
 }
