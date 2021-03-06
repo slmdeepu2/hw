@@ -5,7 +5,7 @@ A simple Java application that can be compiled into a .jar file using Maven.
 
 To build
 --------
-    mvn clean packagejbjjbj
+    mvn clean packagejbjjbjnjninin
 
 To run
 ------
